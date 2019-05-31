@@ -1,6 +1,6 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://raw.githubusercontent.com/oumaimaRim/revocation_list/master/revocationList.json",
+  "id": "https://github.com/oumaimaRim/revocation_list/blob/master/revocationList.json",
   "type": "RevocationList",
   "issuer": "http://issuer.doccerts.com/issuer/141277709",
   "revokedAssertions": [{
