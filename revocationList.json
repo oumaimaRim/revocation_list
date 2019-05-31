@@ -4,11 +4,11 @@
   "type": "RevocationList",
   "issuer": "http://issuer.doccerts.com/issuer/1412777203",
   "revokedAssertions": [{
-      "id": "urn:uuid:usmba-test123-120911192",
+      "id": "urn:uuid:USMBA-Test4-120911192",
       "revocationReason": "Honor code violation"
     },
     {
-      "id": "urn:uuid:usmba-test123-120911192",
+      "id": "urn:uuid:USMBA-Test4-120911192",
       "revocationReason": "Issued in error."
     }
   ]
