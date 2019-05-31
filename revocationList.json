@@ -1,8 +1,8 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
-  "id": "https://raw.githubusercontent.com/oumaimaRim/revocation_list/blob/master/revocationList.json",
+  "id": "https://raw.githubusercontent.com/oumaimaRim/revocation_list/master/revocationList.json",
   "type": "RevocationList",
-  "issuer": "http://issuer.doccerts.com/issuer/1412777203",
+  "issuer": "http://issuer.doccerts.com/issuer/141277709",
   "revokedAssertions": [{
       "id": "urn:uuid:jihan_school-INFO-123309876",
       "revocationReason": "Honor code violation"
