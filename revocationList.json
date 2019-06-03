@@ -4,11 +4,11 @@
   "type": "RevocationList",
   "issuer": "http://issuer.doccerts.com/issuer/141277709",
   "revokedAssertions": [{
-      "id": "jihan_school-INFO-123309876",
+      "id": "urn:uuid:jihan_school-INFO-123309876",
       "revocationReason": "Honor code violation"
     },
     {
-      "id": "USMBA-Test4-120911192",
+      "id": "urn:uuid:USMBA-Test4-120911192",
       "revocationReason": "Issued in error."
     }
   ]
